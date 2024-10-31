@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: professionearchitetto-news\n"
+"POT-Creation-Date: 2017-04-24 11:39+0200\n"
+"PO-Revision-Date: 2017-04-24 11:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: redazione professione Architetto\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../professionearchitetto-news.php:28
+msgid "Pubblica sul tuo sito web le ultime notizie di professione Architetto"
+msgstr "Pubblica sul tuo sito web le ultime notizie di professione Architetto"
+
+#: ../professionearchitetto-news.php:98
+msgid "Inserisci un titolo per il widget (opzionale):"
+msgstr "Inserisci un titolo per il widget (opzionale):"
+
+#: ../professionearchitetto-news.php:100
+msgid "Indica le categorie di interesse:"
+msgstr "Indica le categorie di interesse:"
+
+#: ../professionearchitetto-news.php:109
+msgid "Quanti annunci mostrare?"
+msgstr "Quanti annunci mostrare?"
+
+#: ../professionearchitetto-news.php:118
+msgid "Mostrare l'icona?"
+msgstr "Mostrare l’icona?"
+
+#: ../professionearchitetto-news.php:120
+msgid "Mostrare il dettaglio?"
+msgstr "Mostrare il dettaglio?"
+
+#: ../professionearchitetto-news.php:122
+msgid "Mostrare la data di pubblicazione?"
+msgstr "Mostrare la data di pubblicazione?"
+
+#: ../professionearchitetto-news.php:153
+msgid ""
+"An error has occurred, which probably means the feed is down. Try again "
+"later."
+msgstr ""
+"C'&egrave; stato un errore. Probabilmente il feed non &egrave; online. Prova "
+"pi&ugrave; tardi."
+
+#: ../professionearchitetto-news.php:170
+msgid "Untitled"
+msgstr "Senza titolo"
+
+#~ msgid "Unknown Feed"
+#~ msgstr "Feed sconosciuto"
+
+#~ msgid ""
+#~ "WooCommerce Italian Add-on requires %sWooCommerce%s to be installed and "
+#~ "activated!"
+#~ msgstr ""
+#~ "WooCommerce Italian Add-on richiede che %sWooCommerce%s sia installato e "
+#~ "attivato!"
+
+#~ msgid "Invoice or Receipt"
+#~ msgstr "Fattura o ricevuta"
+
+#~ msgid "Receipt"
+#~ msgstr "Ricevuta"
+
+#~ msgid "Invoice"
+#~ msgstr "Fattura"
+
+#~ msgid "VAT number"
+#~ msgstr "Codice fiscale o Partita IVA"
+
+#~ msgid "Please enter your VAT number or Tax Code"
+#~ msgstr "Digita il tuo Codice fiscale o Partita IVA"
+
+#~ msgid "Tax Identification Number %1$s is not correct"
+#~ msgstr "Il Codice Fiscale %1$s non è indicato in modo corretto"
+
+#~ msgid "VAT number %1$s is not correct"
+#~ msgstr "La partita IVA %1$s non è indicata in modo corretto"
+
+#~ msgid "Tax Code"
+#~ msgstr "Cod.Fisc."
+
+#~ msgid "VAT"
+#~ msgstr "P.IVA"
+
+#~ msgid "invoice"
+#~ msgstr "fattura"
+
+#~ msgid "receipt"
+#~ msgstr "ricevuta"
+
+#~ msgid "Italian Add-on"
+#~ msgstr "Italian Add-on"
+
+#~ msgid "Premium Versions"
+#~ msgstr "Versioni premium"
+
+#~ msgid "Invoice Templates"
+#~ msgstr "Modelli di Fattura"
+
+#~ msgid ""
+#~ "If you like <strong>%1s</strong> please leave us a %2s rating. A huge "
+#~ "thank you from %3s team in advance!"
+#~ msgstr ""
+#~ "Se ti piace <strong>%1s</strong> metti un rating %2s. Un grosso grazie "
+#~ "dal team di %3s!"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "General settings"
+#~ msgstr "Impostazioni generali"
+
+#~ msgid "Required VAT/Tax Code"
+#~ msgstr "partita IVA e Codice Fiscale obbligatori"
+
+#~ msgid "Choose if you want that VAT/Tax Code is a required field"
+#~ msgstr ""
+#~ "Scegli se vuoi che il campo partita IVA/Codice Fiscale sia obbligatorio"
+
+#~ msgid "required"
+#~ msgstr "obbligatorio"
+
+#~ msgid "not required"
+#~ msgstr "non obbligatorio"
+
+#~ msgid "VAT/Tax Code field width"
+#~ msgstr "larghezza del campo partita IVA/Codice Fiscale"
+
+#~ msgid ""
+#~ "Choose if you want that fields VAT/Tax Code and invoice/receipt on the "
+#~ "same row in checkout page"
+#~ msgstr ""
+#~ "Nella pagina del checkout scegli se vuoi che i campi partita IVA/Codice "
+#~ "Fiscale e Fattura/Ricevuta siano sulla stessa riga"
+
+#~ msgid "wide"
+#~ msgstr "largo"
+
+#~ msgid "short"
+#~ msgstr "stretto"
+
+#~ msgid "Hide the Italian Add-on fields if billing country is outside UE?"
+#~ msgstr ""
+#~ "Nascondi il campo partita IVA e codice fiscale se l'indirizzo di "
+#~ "fatturazione non è nella Unione Europea"
+
+#~ msgid ""
+#~ "Choose if you want to hide the Italian Add-on fields if customer's "
+#~ "billing country is outside UE"
+#~ msgstr ""
+#~ "Scegli se vuoi nascondere il campo partita IVA o codice fiscale quando "
+#~ "l'indirizzo di fatturazione non è nella Unione Europea"
+
+#~ msgid "Always show Italian Add-on fields"
+#~ msgstr "Richiedi sempre la partita IVA o il codice fiscale"
+
+#~ msgid ""
+#~ "Hide Italian Add-on fields if customer's billing country is outside UE"
+#~ msgstr ""
+#~ "Nascondi la partita IVA o il codice fiscale quando l'indirizzo di "
+#~ "fatturazione del cliente e fuori dall'Unione Europea"
+
+#~ msgid "More Options"
+#~ msgstr "Altre opzioni"
+
+#~ msgid "PDF Receipt"
+#~ msgstr "Ricevuta PDF"
+
+#~ msgid "PDF Receipts"
+#~ msgstr "Ricevute PDF"
+
+#~ msgid "Download Receipt (PDF)"
+#~ msgstr "Scarica ricevuta (PDF)"
+
+#~ msgid "Billing Address:"
+#~ msgstr "Indirizzo:"
+
+#~ msgid "Ship To:"
+#~ msgstr "Destinatario:"
+
+#~ msgid "Receipt Date:"
+#~ msgstr "Data ricevuta:"
+
+#~ msgid "Order Number:"
+#~ msgstr "Ordine n°:"
+
+#~ msgid "Order Date:"
+#~ msgstr "Data ordine:"
+
+#~ msgid "Payment Method:"
+#~ msgstr "Metodo di pagamento:"
+
+#~ msgid "Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantità"
+
+#~ msgid "Price"
+#~ msgstr "Prezzo"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "SKU"
+#~ msgstr "Codice prod."
+
+#~ msgid "SKU:"
+#~ msgstr "Codice prod.:"
+
+#~ msgid "Weight:"
+#~ msgstr "Peso:"
+
+#~ msgid "Customer Notes"
+#~ msgstr "Note del Cliente"
+
+#~ msgid "Please enter your VAT number or Fiscal code"
+#~ msgstr "Digita il tuo Codice fiscale o Partita IVA"
+
+#~ msgid "Fiscal code"
+#~ msgstr "Cod.Fisc."
+
+#~ msgid "Please enter your VAT number"
+#~ msgstr "Digita la tua Partita IVA"
+
+#~ msgid "Recipient"
+#~ msgstr "Destinatario"
